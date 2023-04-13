@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Wojciech-Krol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning flutter(dart), unity(c#), c++
-- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me my mail: wojtekkrool@gmail.com
 
 <!---
